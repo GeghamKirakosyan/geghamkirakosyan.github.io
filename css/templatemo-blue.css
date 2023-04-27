@@ -7,8 +7,9 @@ http://www.templatemo.com/tm-467-easy-profile
 
 html, body {
   margin:0;border:0;padding:0;
-  font-size:16px;
-  font-family:'Proxima';
+  font-size:15px;
+  /* font-family:'Proxima'; */
+  font-family: 'Montserrat', sans-serif;
   overflow-x:hidden;
   position: relative;
   vertical-align: baseline;
@@ -167,6 +168,7 @@ header hr {
 .skills {
   background: #3366CC;
   color: #f5f5f5;
+  text-align: justify;
 }
 .skills .progress {
   border-radius: 0px;
